@@ -4,7 +4,6 @@ pipeline {
 
 
         // ******ALL CODE TO BE ADDED BELOW THIS COMMENT******
-
  
         //maven clean stage
         stage('Clean'){
